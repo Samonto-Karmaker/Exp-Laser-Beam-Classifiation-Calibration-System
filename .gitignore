@@ -12,3 +12,4 @@ wheels/
 # data
 Optical_Axis_Alignment_Data/
 share_IBM_training/
+processed/
