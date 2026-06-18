@@ -13,3 +13,6 @@ wheels/
 Optical_Axis_Alignment_Data/
 share_IBM_training/
 processed/
+
+# auto-generated files
+notebooks/catboost_info/*
